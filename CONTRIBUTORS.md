@@ -2438,3 +2438,7 @@ Noida
 -Bio: Undergraduate student of MIS
 - Github:[Hasini Uththara] https://github.com/HasiniUththara
 
+#### Name: [Chathuka fernando](https://github.com/chathukafernanod)
+-Place: Sri Lanka
+-Bio: Undergraduate student of MIS
+- Github:[Chathuka fernando] https://github.com/Chathuka fernando
